@@ -28,5 +28,6 @@ As I tried to help Louise in her analysis, there were a few challenges I encount
 - What can you conclude about the Outcomes based on Goals?
 Campaigns that had a goal of less than $1000 had the highest percentage of success. 
 - What are some limitations of this dataset?
-
+Some of the limitations of this dataset include consumer preference. We do not have the ability to see the genre of play or the target audience. If a campaign was successful, perhaps it's because the play's plot interested a larger number of backers than another. We also do not know the exact meaning of some of the columns. What made something a staff pick? What does spotlight mean in relation to the data? There is more information we could gather to get a better understanding of the campaigns. 
 - What are some other possible tables and/or graphs that we could create?
+There are a few other tables and graphs that could be useful to create when looking at this data and finding factors for campaign success. It would be interesting to see if different countries performed better in getting close to the campaign goal. It would also be interesting to analyze if a higher number of backers had an affect on the goal as well. In terms of campaign launch dates, I would imagine it would be helpful to investigate the year and use background knowledge of the overall economy. If the campaign was launched closer to 2008, I would imagine a lower goal would have been more helpful as people may not have been willing to spend as much of their income. 
