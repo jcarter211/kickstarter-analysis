@@ -8,14 +8,14 @@ The purpose of this report is to share my findings and thoughts about how the th
 To conduct my analysis, I created a few visual representations of the data that helped me better process how the fundraising goal and the launch date relate to success, failure, or cancellation of the theather campaigns. 
 ### Analysis of Outcomes Based on Launch Date
 
-[Theater_Outcomes_vs_Launch](https://github.com/jcarter211/kickstarter-analysis/blob/main/Theater_Outcomes_vs_Launch.png) 
+![Theater_Outcomes_vs_Launch](https://github.com/jcarter211/kickstarter-analysis/blob/main/Theater_Outcomes_vs_Launch.png) 
 
 This first image shows how the theater campaigns performed based on the time of their launch. For the purpose of this analysis, I only focused on the successful, failed, and cancelled campaigns. In order to create this chart, I had to create a Year column that extracted the year from the Date Created column. I also had to filter the data to the parent category of "Theater" and by the "Years". I organized my data to show descending order with the most successful campaigns showing first in my table. From my table, I created a chart where I am able to see a few trends and deduct conclusions based on the time the campaign was launched. 
 
 ### Analysis of Outcomes Based on Goals
 I also wanted to explore how the goal amount affected the outcome of the campaign. To do this, I calculated the number of successful, failed, and canceled projects within a certain fundraising category: for example, less than $1000. I then found the percentage of successful, failed, and canceled projects in each funding range.
 
-[Outcomes_vs_Goals.png](./Outcomes_vs_Goals.png) 
+![Outcomes_vs_Goals.png](./Outcomes_vs_Goals.png) 
 
 This image helped me interpret which fundraising goals had the most success/failure in the theater parent category. Something interesting to note from my data is that none of the theater category campaigns were canceled. 
 ### Challenges and Difficulties Encountered
